@@ -1,0 +1,16 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\obj\Debug\net5.0\Project 4 - Operator Aritmatika.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\obj\Debug\net5.0\Project 4 - Operator Aritmatika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\obj\Debug\net5.0\Project 4 - Operator Aritmatika.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\obj\Debug\net5.0\Project 4 - Operator Aritmatika.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\obj\Debug\net5.0\Project 4 - Operator Aritmatika.csproj.CoreCompileInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\bin\Debug\net5.0\Project 4 - Operator Aritmatika.exe
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\bin\Debug\net5.0\Project 4 - Operator Aritmatika.deps.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\bin\Debug\net5.0\Project 4 - Operator Aritmatika.runtimeconfig.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\bin\Debug\net5.0\Project 4 - Operator Aritmatika.runtimeconfig.dev.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\bin\Debug\net5.0\Project 4 - Operator Aritmatika.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\bin\Debug\net5.0\ref\Project 4 - Operator Aritmatika.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\bin\Debug\net5.0\Project 4 - Operator Aritmatika.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\obj\Debug\net5.0\Project 4 - Operator Aritmatika.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\obj\Debug\net5.0\ref\Project 4 - Operator Aritmatika.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\obj\Debug\net5.0\Project 4 - Operator Aritmatika.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 4 - Operator Aritmatika\obj\Debug\net5.0\Project 4 - Operator Aritmatika.genruntimeconfig.cache

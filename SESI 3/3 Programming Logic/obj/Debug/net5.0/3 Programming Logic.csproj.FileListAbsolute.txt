@@ -1,0 +1,16 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\obj\Debug\net5.0\3 Programming Logic.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\obj\Debug\net5.0\3 Programming Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\obj\Debug\net5.0\3 Programming Logic.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\obj\Debug\net5.0\3 Programming Logic.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\obj\Debug\net5.0\3 Programming Logic.csproj.CoreCompileInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\bin\Debug\net5.0\3 Programming Logic.exe
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\bin\Debug\net5.0\3 Programming Logic.deps.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\bin\Debug\net5.0\3 Programming Logic.runtimeconfig.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\bin\Debug\net5.0\3 Programming Logic.runtimeconfig.dev.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\bin\Debug\net5.0\3 Programming Logic.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\bin\Debug\net5.0\ref\3 Programming Logic.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\bin\Debug\net5.0\3 Programming Logic.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\obj\Debug\net5.0\3 Programming Logic.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\obj\Debug\net5.0\ref\3 Programming Logic.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\obj\Debug\net5.0\3 Programming Logic.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\3 Programming Logic\obj\Debug\net5.0\3 Programming Logic.genruntimeconfig.cache

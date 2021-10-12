@@ -1,0 +1,16 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\bin\Debug\net5.0\8 Logika.exe
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\bin\Debug\net5.0\8 Logika.deps.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\bin\Debug\net5.0\8 Logika.runtimeconfig.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\bin\Debug\net5.0\8 Logika.runtimeconfig.dev.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\bin\Debug\net5.0\8 Logika.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\bin\Debug\net5.0\ref\8 Logika.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\bin\Debug\net5.0\8 Logika.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\obj\Debug\net5.0\8 Logika.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\obj\Debug\net5.0\8 Logika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\obj\Debug\net5.0\8 Logika.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\obj\Debug\net5.0\8 Logika.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\obj\Debug\net5.0\8 Logika.csproj.CoreCompileInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\obj\Debug\net5.0\8 Logika.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\obj\Debug\net5.0\ref\8 Logika.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\obj\Debug\net5.0\8 Logika.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\8 Logika\obj\Debug\net5.0\8 Logika.genruntimeconfig.cache

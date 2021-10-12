@@ -1,0 +1,16 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\obj\Debug\net5.0\Project 2 - Boleean.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\obj\Debug\net5.0\Project 2 - Boleean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\obj\Debug\net5.0\Project 2 - Boleean.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\obj\Debug\net5.0\Project 2 - Boleean.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\obj\Debug\net5.0\Project 2 - Boleean.csproj.CoreCompileInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\bin\Debug\net5.0\Project 2 - Boleean.exe
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\bin\Debug\net5.0\Project 2 - Boleean.deps.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\bin\Debug\net5.0\Project 2 - Boleean.runtimeconfig.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\bin\Debug\net5.0\Project 2 - Boleean.runtimeconfig.dev.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\bin\Debug\net5.0\Project 2 - Boleean.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\bin\Debug\net5.0\ref\Project 2 - Boleean.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\bin\Debug\net5.0\Project 2 - Boleean.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\obj\Debug\net5.0\Project 2 - Boleean.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\obj\Debug\net5.0\ref\Project 2 - Boleean.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\obj\Debug\net5.0\Project 2 - Boleean.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 2\Project 2 - Boleean\obj\Debug\net5.0\Project 2 - Boleean.genruntimeconfig.cache

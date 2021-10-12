@@ -1,0 +1,16 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\bin\Debug\net5.0\1 Programing Logic.exe
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\bin\Debug\net5.0\1 Programing Logic.deps.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\bin\Debug\net5.0\1 Programing Logic.runtimeconfig.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\bin\Debug\net5.0\1 Programing Logic.runtimeconfig.dev.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\bin\Debug\net5.0\1 Programing Logic.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\bin\Debug\net5.0\ref\1 Programing Logic.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\bin\Debug\net5.0\1 Programing Logic.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\obj\Debug\net5.0\1 Programing Logic.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\obj\Debug\net5.0\1 Programing Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\obj\Debug\net5.0\1 Programing Logic.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\obj\Debug\net5.0\1 Programing Logic.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\obj\Debug\net5.0\1 Programing Logic.csproj.CoreCompileInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\obj\Debug\net5.0\1 Programing Logic.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\obj\Debug\net5.0\ref\1 Programing Logic.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\obj\Debug\net5.0\1 Programing Logic.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\1 Programing Logic\obj\Debug\net5.0\1 Programing Logic.genruntimeconfig.cache
