@@ -1,0 +1,16 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\bin\Debug\net5.0\number6.exe
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\bin\Debug\net5.0\number6.deps.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\bin\Debug\net5.0\number6.runtimeconfig.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\bin\Debug\net5.0\number6.runtimeconfig.dev.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\bin\Debug\net5.0\number6.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\bin\Debug\net5.0\ref\number6.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\bin\Debug\net5.0\number6.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\obj\Debug\net5.0\number6.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\obj\Debug\net5.0\number6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\obj\Debug\net5.0\number6.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\obj\Debug\net5.0\number6.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\obj\Debug\net5.0\number6.csproj.CoreCompileInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\obj\Debug\net5.0\number6.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\obj\Debug\net5.0\ref\number6.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\obj\Debug\net5.0\number6.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\number6\obj\Debug\net5.0\number6.genruntimeconfig.cache
