@@ -1,0 +1,5 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\obj\Debug\net5.0\SESI 4 - Assesment.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\obj\Debug\net5.0\SESI 4 - Assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\obj\Debug\net5.0\SESI 4 - Assesment.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\obj\Debug\net5.0\SESI 4 - Assesment.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 4 - Assesment\obj\Debug\net5.0\SESI 4 - Assesment.csproj.CoreCompileInputs.cache

@@ -19,6 +19,6 @@ namespace number6
                 Console.WriteLine(" " + string1 + " is not a Palindrome!");
             }
             Console.Read(); 
-            }
+        }
     }
 }

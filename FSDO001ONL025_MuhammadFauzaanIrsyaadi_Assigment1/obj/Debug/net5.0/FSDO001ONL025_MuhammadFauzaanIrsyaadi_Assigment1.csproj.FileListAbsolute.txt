@@ -1,0 +1,16 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\bin\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.exe
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\bin\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.deps.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\bin\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.runtimeconfig.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\bin\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.runtimeconfig.dev.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\bin\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\bin\Debug\net5.0\ref\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\bin\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\obj\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\obj\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\obj\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\obj\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\obj\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.csproj.CoreCompileInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\obj\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\obj\Debug\net5.0\ref\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\obj\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1\obj\Debug\net5.0\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1.genruntimeconfig.cache
