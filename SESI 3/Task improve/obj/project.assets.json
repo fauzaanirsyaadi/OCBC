@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fauzaan\\Desktop\\my project\\intenship NEON\\SESI 3\\Task improve\\Task improve.csproj",
+      "projectUniqueName": "C:\\Users\\fauzaan\\Desktop\\my project\\intenship NEON\\OCBC\\SESI 3\\Task improve\\Task improve.csproj",
       "projectName": "Task improve",
-      "projectPath": "C:\\Users\\fauzaan\\Desktop\\my project\\intenship NEON\\SESI 3\\Task improve\\Task improve.csproj",
+      "projectPath": "C:\\Users\\fauzaan\\Desktop\\my project\\intenship NEON\\OCBC\\SESI 3\\Task improve\\Task improve.csproj",
       "packagesPath": "C:\\Users\\fauzaan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fauzaan\\Desktop\\my project\\intenship NEON\\SESI 3\\Task improve\\obj\\",
+      "outputPath": "C:\\Users\\fauzaan\\Desktop\\my project\\intenship NEON\\OCBC\\SESI 3\\Task improve\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

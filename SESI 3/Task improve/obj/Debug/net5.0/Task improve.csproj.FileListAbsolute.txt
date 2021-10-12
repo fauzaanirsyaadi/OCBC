@@ -14,3 +14,11 @@ C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\Task improve\obj\Debug
 C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\Task improve\obj\Debug\net5.0\ref\Task improve.dll
 C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\Task improve\obj\Debug\net5.0\Task improve.pdb
 C:\Users\fauzaan\Desktop\my project\intenship NEON\SESI 3\Task improve\obj\Debug\net5.0\Task improve.genruntimeconfig.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 3\Task improve\obj\Debug\net5.0\Task improve.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 3\Task improve\obj\Debug\net5.0\Task improve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 3\Task improve\obj\Debug\net5.0\Task improve.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 3\Task improve\obj\Debug\net5.0\Task improve.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 3\Task improve\obj\Debug\net5.0\Task improve.csproj.CoreCompileInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 3\Task improve\obj\Debug\net5.0\Task improve.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 3\Task improve\obj\Debug\net5.0\ref\Task improve.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 3\Task improve\obj\Debug\net5.0\Task improve.pdb

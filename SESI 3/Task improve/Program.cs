@@ -47,44 +47,46 @@ namespace Task_improve
         }  
         //Addition  
         public static int Addition(int input_1, int input_2) {  
-            int result;
-            for (int i = 0; i < input_2; i++) {
+            // int result;
+            // for (int i = 1; i < input_2; i++) {
                 
-                result += input_1 + i;
-                Console.WriteLine(result);
-            }
+            //     result = input_1 + i;
+            //     Console.WriteLine(result);
+            // }
             
-            // int result = input_1 + input_2;  
+            int result = input_1 + input_2;  
             return result;  
         }  
         //Substraction  
         public static int Subtraction(int input_1, int input_2) {  
-            // int result;
-            for (int i = 0; i < input_2; i++) {
-                if(i >= input_1 ){
-                    int result = input_1 - i;
-                    // Console.WriteLine(result);
-                }
-            }
-            // int result = input_1 + input_2;  
+            // // int result;
+            // for (int i = 0; i < input_2; i++) {
+            //     if(i >= input_1 ){
+            //         int result = input_1 - i;
+            //         // Console.WriteLine(result);
+            //     }
+            // }
+            int result = input_1 - input_2;  
             return result;  
         }  
         //Multiplication  
         public static int Multiplication(int input_1, int input_2) {  
-            // int result;
-            for (int i = 0; i < input_2; i++) {
-                int result = input_1 * i;
-                // Console.WriteLine(result);
-            } 
+            // // int result;
+            // for (int i = 0; i < input_2; i++) {
+            //     int result = input_1 * i;
+            //     // Console.WriteLine(result);
+            // } 
+            int result = input_1 * input_2;
             return result;  
         }  
         //Division  
         public static int Division(int input_1, int input_2) {  
-            // int result;
-            for (int i = 1; i < input_2; i++) {
-                int result = input_1 / i;
-                // Console.WriteLine(result);
-            }
+            // // int result;
+            // for (int i = 1; i < input_2; i++) {
+            //     int result = input_1 / i;
+            //     // Console.WriteLine(result);
+            // }
+            int result = input_1 / input_2;
             return result;  
         }  
     }  
