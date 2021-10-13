@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "5Proj - Overreading - Pewarisan/1.0.0": {
+        "runtime": {
+          "5Proj - Overreading - Pewarisan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5Proj - Overreading - Pewarisan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

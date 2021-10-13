@@ -1,0 +1,5 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\3Proj - pesawat tempur\obj\Debug\net5.0\3Proj - pesawat tempur.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\3Proj - pesawat tempur\obj\Debug\net5.0\3Proj - pesawat tempur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\3Proj - pesawat tempur\obj\Debug\net5.0\3Proj - pesawat tempur.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\3Proj - pesawat tempur\obj\Debug\net5.0\3Proj - pesawat tempur.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\3Proj - pesawat tempur\obj\Debug\net5.0\3Proj - pesawat tempur.csproj.CoreCompileInputs.cache

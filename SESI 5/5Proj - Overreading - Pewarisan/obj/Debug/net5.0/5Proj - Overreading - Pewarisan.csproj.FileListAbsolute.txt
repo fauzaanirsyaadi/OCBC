@@ -1,0 +1,16 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\obj\Debug\net5.0\5Proj - Overreading - Pewarisan.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\obj\Debug\net5.0\5Proj - Overreading - Pewarisan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\obj\Debug\net5.0\5Proj - Overreading - Pewarisan.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\obj\Debug\net5.0\5Proj - Overreading - Pewarisan.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\obj\Debug\net5.0\5Proj - Overreading - Pewarisan.csproj.CoreCompileInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\bin\Debug\net5.0\5Proj - Overreading - Pewarisan.exe
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\bin\Debug\net5.0\5Proj - Overreading - Pewarisan.deps.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\bin\Debug\net5.0\5Proj - Overreading - Pewarisan.runtimeconfig.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\bin\Debug\net5.0\5Proj - Overreading - Pewarisan.runtimeconfig.dev.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\bin\Debug\net5.0\5Proj - Overreading - Pewarisan.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\bin\Debug\net5.0\ref\5Proj - Overreading - Pewarisan.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\bin\Debug\net5.0\5Proj - Overreading - Pewarisan.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\obj\Debug\net5.0\5Proj - Overreading - Pewarisan.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\obj\Debug\net5.0\ref\5Proj - Overreading - Pewarisan.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\obj\Debug\net5.0\5Proj - Overreading - Pewarisan.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\5Proj - Overreading - Pewarisan\obj\Debug\net5.0\5Proj - Overreading - Pewarisan.genruntimeconfig.cache

@@ -190,6 +190,7 @@ namespace FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment1
                         Console.WriteLine("Pilihan Bulan Tidak Tersedia");
                     break;}
                 }
+                Console.WriteLine("");
                 Console.Write("Apakah Anda Ingin kembali ke home (Y) atau anda ingin keluar? ");
                 ulang = Console.ReadLine();
             } while (ulang == "Y" || ulang == "y");

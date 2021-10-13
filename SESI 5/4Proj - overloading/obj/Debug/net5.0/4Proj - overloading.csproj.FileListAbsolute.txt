@@ -1,0 +1,16 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\obj\Debug\net5.0\4Proj - overloading.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\obj\Debug\net5.0\4Proj - overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\obj\Debug\net5.0\4Proj - overloading.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\obj\Debug\net5.0\4Proj - overloading.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\obj\Debug\net5.0\4Proj - overloading.csproj.CoreCompileInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\bin\Debug\net5.0\4Proj - overloading.exe
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\bin\Debug\net5.0\4Proj - overloading.deps.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\bin\Debug\net5.0\4Proj - overloading.runtimeconfig.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\bin\Debug\net5.0\4Proj - overloading.runtimeconfig.dev.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\bin\Debug\net5.0\4Proj - overloading.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\bin\Debug\net5.0\ref\4Proj - overloading.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\bin\Debug\net5.0\4Proj - overloading.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\obj\Debug\net5.0\4Proj - overloading.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\obj\Debug\net5.0\ref\4Proj - overloading.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\obj\Debug\net5.0\4Proj - overloading.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 5\4Proj - overloading\obj\Debug\net5.0\4Proj - overloading.genruntimeconfig.cache
