@@ -10,7 +10,7 @@ namespace Movies.Controllers
 {
     [Route("api/[controller]")]//api/todo
     [ApiController]
-    public class MoviesController : ControllerBase //nama yang berpengaruh sama routenya itu sblm Controller
+    public class MoviesController : ControllerBase
     {
         private readonly MovieDbContext _context;
 
@@ -48,50 +48,6 @@ namespace Movies.Controllers
             return Ok(item);
         }
 
-        [HttpGet("GetDate/{date1}, {date2}")] //specific date
-        public async Task<IActionResult> GetByDateMovie(DateTime date1, DateTime date2)
-        {
-            var item = await _context.Movies.Where(x => x.ReleaseDate >= date1 && x.ReleaseDate <= date2).ToListAsync();
-
-            if (item == null)
-                return NotFound();
-
-            return Ok(item);
-        }
-
-        [HttpGet("MoreDate/{date1}")] //specific date
-        public async Task<IActionResult> GetByDateMore(DateTime date1)
-        {
-            var item = await _context.Movies.Where(x => x.ReleaseDate >= date1).ToListAsync();
-
-            if (item == null)
-                return NotFound();
-
-            return Ok(item);
-        }
-
-        [HttpGet("LessDate/{date1}")] //specific date
-        public async Task<IActionResult> GetByDateLess(DateTime date1)
-        {
-            var item = await _context.Movies.Where(x => x.ReleaseDate <= date1).ToListAsync();
-
-            if (item == null)
-                return NotFound();
-
-            return Ok(item);
-        }
-
-        [HttpGet("GetPrice/{price1}, {price2}")] //specific price
-        public async Task<IActionResult> GetByPrice(int price1, int price2)
-        {
-            var item = await _context.Movies.Where(x => x.price >= price1 && x.price <= price2).ToListAsync();
-
-            if (item == null)
-                return NotFound();
-
-            return Ok(item);
-        }
-
         [HttpPost]//insert
         public async Task<IActionResult> InsertMovies(MovieData movie)
         {
@@ -106,7 +62,7 @@ namespace Movies.Controllers
             return new JsonResult("Data gk ada") { StatusCode = 500 };
         }
 
-        [HttpPut("{id}")]
+        [HttpPut("{id}")]//update
         public async Task<IActionResult> UpdateItem(int id, MovieData movie)
         {
             if (id != movie.id)
@@ -129,7 +85,7 @@ namespace Movies.Controllers
             return new JsonResult("Data Updates") { StatusCode = 201 };
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("{id}")]//delete
         public async Task<IActionResult> DeleteItem(int id)
         {
             var existItem = await _context.Movies.FirstOrDefaultAsync(x => x.id == id);

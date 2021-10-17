@@ -2115,24 +2115,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\fauzaan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\belajar c#\\assignment3\\MoviesApi - MySql\\MoviesApi.csproj",
+      "projectUniqueName": "C:\\Users\\fauzaan\\Desktop\\my project\\intenship NEON\\OCBC\\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment3\\MoviesApi\\MoviesApi.csproj",
       "projectName": "MoviesApi",
-      "projectPath": "C:\\Users\\ASUS\\Downloads\\belajar c#\\assignment3\\MoviesApi - MySql\\MoviesApi.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Downloads\\belajar c#\\assignment3\\MoviesApi - MySql\\obj\\",
+      "projectPath": "C:\\Users\\fauzaan\\Desktop\\my project\\intenship NEON\\OCBC\\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment3\\MoviesApi\\MoviesApi.csproj",
+      "packagesPath": "C:\\Users\\fauzaan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fauzaan\\Desktop\\my project\\intenship NEON\\OCBC\\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment3\\MoviesApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\fauzaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -2194,7 +2198,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
