@@ -1,0 +1,28 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\appsettings.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\SESI 11.exe
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\SESI 11.deps.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\SESI 11.runtimeconfig.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\SESI 11.runtimeconfig.dev.json
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\SESI 11.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\ref\SESI 11.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\SESI 11.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\SESI 11.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\SESI 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\SESI 11.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\SESI 11.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\SESI 11.csproj.CoreCompileInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\SESI 11.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\SESI 11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\staticwebassets\SESI 11.StaticWebAssets.Manifest.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\staticwebassets\SESI 11.StaticWebAssets.xml
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\scopedcss\bundle\SESI 11.styles.css
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\SESI 11.RazorTargetAssemblyInfo.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\SESI 11.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\ref\SESI 11.dll
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\SESI 11.pdb
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 11\obj\Debug\net5.0\SESI 11.genruntimeconfig.cache
