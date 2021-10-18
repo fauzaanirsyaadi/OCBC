@@ -188,7 +188,6 @@ C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFa
 C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment3\MoviesApi\obj\Debug\net5.0\staticwebassets\MoviesApi.StaticWebAssets.xml
 C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment3\MoviesApi\obj\Debug\net5.0\scopedcss\bundle\MoviesApi.styles.css
 C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment3\MoviesApi\obj\Debug\net5.0\MoviesApi.RazorTargetAssemblyInfo.cache
-C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment3\MoviesApi\obj\Debug\net5.0\MoviesApi.csproj.CopyComplete
 C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment3\MoviesApi\obj\Debug\net5.0\MoviesApi.dll
 C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment3\MoviesApi\obj\Debug\net5.0\ref\MoviesApi.dll
 C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\FSDO001ONL025_MuhammadFauzaanIrsyaadi_Assigment3\MoviesApi\obj\Debug\net5.0\MoviesApi.pdb
