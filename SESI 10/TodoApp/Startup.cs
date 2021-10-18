@@ -13,7 +13,15 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using TodoApp.Data;
 using Microsoft.EntityFrameworkCore;
-
+using TodoApp.Configuration;
+using Microsoft.EntityFrameworkCore.Sqlite;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration.Json;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Swashbuckle.AspNetCore;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 namespace TodoApp
 {
@@ -35,6 +43,29 @@ namespace TodoApp
                     Configuration.GetConnectionString("DefaultCOnnection")
                 )
             );
+            services.Configure<JwtConfig>(Configuration.GetSection("JwtConfig"));
+            
+            services.AddAuthentication(options => {
+            options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+            options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+            options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+                })
+                .AddJwtBearer(jwt => {
+                    var key = Encoding.ASCII.GetBytes(Configuration["JwtConfig:Secret"]);
+
+                    jwt.SaveToken = true;
+                    jwt.TokenValidationParameters = new TokenValidationParameters {
+                        ValidateIssuerSigningKey = true,
+                        IssuerSigningKey = new SymmetricSecurityKey(key),
+                        ValidateIssuer = false,
+                        ValidateAudience = false,
+                        ValidateLifetime = true,
+                        RequireExpirationTime = false
+                    };
+                });
+                services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                .AddEntityFrameworkStores<ApiDbContext>();
+                
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
