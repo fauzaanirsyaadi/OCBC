@@ -61,7 +61,6 @@ namespace TodoApp
 
             services.AddSingleton(tokenValidationParams);
 
-
             services.AddAuthentication(options => {
             options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
             options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -71,30 +70,56 @@ namespace TodoApp
                     // var key = Encoding.ASCII.GetBytes(Configuration["JwtConfig:Secret"]);
 
                     jwt.SaveToken = true;
-                    jwt.TokenValidationParameters = tokenValidationParams;
-                    // jwt.TokenValidationParameters = new TokenValidationParameters {
-                    //     ValidateIssuerSigningKey = true,
-                    //     IssuerSigningKey = new SymmetricSecurityKey(key),
-                    //     ValidateIssuer = false,
-                    //     ValidateAudience = false,
-                    //     ValidateLifetime = true,
-                    //     RequireExpirationTime = false
-                    // };
+                    // jwt.TokenValidationParameters = tokenValidationParams;
+                    jwt.TokenValidationParameters = new TokenValidationParameters {
+                        ValidateIssuerSigningKey = true,
+                        IssuerSigningKey = new SymmetricSecurityKey(key),
+                        ValidateIssuer = false,
+                        ValidateAudience = false,
+                        ValidateLifetime = true,
+                        RequireExpirationTime = false
+                    };
                 });
                 services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApiDbContext>();
                 
             services.AddControllers();
-            services.AddSwaggerGen(c =>
+            services.AddCors(options =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "TodoApp", Version = "v1" });
-                c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+                options.AddPolicy("Open", builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+            });
+
+
+            services.AddSwaggerGen(swagger  =>
+            {
+                swagger.SwaggerDoc("v1", new OpenApiInfo { Title = "TodoApp", Version = "v1",Description =
+                                "Authentication and Authorization in ASP.NET 5 with JWT and Swagger" });
+                swagger.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
                 {
                     Name = "Authorization",
                     In = ParameterLocation.Header,
-                    Type = SecuritySchemeType.ApiKey,
-                    Scheme = "Bearer"
+                    // Type = SecuritySchemeType.ApiKey,
+                    Type = SecuritySchemeType.Http,
+                    // Scheme = "Bearer",
+                    Scheme = JwtBearerDefaults.AuthenticationScheme.ToLowerInvariant(),
+                    BearerFormat = "JWT",
+                    Description =
+                                "Enter 'Bearer' [space] and then your valid token in the text input below.\r\n\r\nExample: \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9\""
+                        
                 });
+                swagger
+                        .AddSecurityRequirement(new OpenApiSecurityRequirement {
+                            {
+                                new OpenApiSecurityScheme {
+                                    Reference =
+                                        new OpenApiReference {
+                                            Type = ReferenceType.SecurityScheme,
+                                            Id = "Bearer"
+                                        }
+                                },
+                                new string[] { }
+                            }
+                        });
             });
         }
 

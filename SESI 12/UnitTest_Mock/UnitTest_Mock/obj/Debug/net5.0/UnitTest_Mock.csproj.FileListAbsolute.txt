@@ -1,0 +1,7 @@
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 12\UnitTest_Mock\UnitTest_Mock\obj\Debug\net5.0\UnitTest_Mock.csproj.AssemblyReference.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 12\UnitTest_Mock\UnitTest_Mock\obj\Debug\net5.0\UnitTest_Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 12\UnitTest_Mock\UnitTest_Mock\obj\Debug\net5.0\UnitTest_Mock.AssemblyInfoInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 12\UnitTest_Mock\UnitTest_Mock\obj\Debug\net5.0\UnitTest_Mock.AssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 12\UnitTest_Mock\UnitTest_Mock\obj\Debug\net5.0\UnitTest_Mock.csproj.CoreCompileInputs.cache
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 12\UnitTest_Mock\UnitTest_Mock\obj\Debug\net5.0\UnitTest_Mock.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fauzaan\Desktop\my project\intenship NEON\OCBC\SESI 12\UnitTest_Mock\UnitTest_Mock\obj\Debug\net5.0\UnitTest_Mock.MvcApplicationPartsAssemblyInfo.cache
