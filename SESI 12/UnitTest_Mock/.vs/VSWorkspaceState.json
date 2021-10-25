@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\TestProject1",
     "\\UnitTest_Mock",
     "\\UnitTest_Mock\\Models"
   ],
-  "SelectedNode": "\\UnitTest_Mock\\Startup.cs",
+  "SelectedNode": "\\TestProject1\\EmployeeTest.cs",
   "PreviewInSolutionExplorer": false
 }
