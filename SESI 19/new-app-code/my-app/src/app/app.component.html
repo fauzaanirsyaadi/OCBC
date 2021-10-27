@@ -1,0 +1,8 @@
+
+<app-komponen1></app-komponen1>
+<app-komponen1 [message]="parentMessage"></app-komponen1>
+<ul>
+  <li *ngFor="let item of items">{{item}}</li>
+</ul>
+<app-add-new-item (newItemEvent)="addItemInParent($event)"></app-add-new-item>
+<app-button></app-button>
