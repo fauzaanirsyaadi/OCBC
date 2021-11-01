@@ -1,19 +1,45 @@
-<!-- <p>add-todo-form works!</p> -->
-
-<form>
+<h1>
+  Angular Todo App Application</h1>
+<form [formGroup]="todoData" (ngSubmit)="addTodo()">
   <div class="input-group mb-3">
+<!--    <label for="content">Todo : </label>-->
     <input
       type="text"
-      name="inputTodo"
       placeholder="Enter todo..."
       class="form-control"
-      [(ngModel)]="inputTodo"
-      />
-      <input
-      type="submit"
-      value="Add Todo"
-      class="btn btn-primary"
-      (click)="addTodo()"
-      />
+      formControlName="content"
+      [(ngModel)]="inputTodo">
+<!--      id = "inputTodo"-->
+<!--      name="inputTodo"-->
+<!--      required minlength="3"-->
+<!--      appForbiddenName="-"-->
+<!--      #inputTodo="ngModel"-->
+
+<!--      <div *ngIf="inputTodo.invalid && (inputTodo.dirty || inputTodo.touched)"-->
+<!--        class="alert">-->
+
+<!--        <div +ngIf="inputTodo.error?.required">-->
+<!--        task name is required-->
+<!--        </div>-->
+<!--        <div *ngIf="inputTodo.errors?.minlength">-->
+<!--          Name must be at least 3 characters long.-->
+<!--        </div>-->
+<!--        <div *ngIf="inputTodo.errors?.forbiddenName">-->
+<!--          Name cannot be - -->
+<!--        </div>-->
+
+<!--        <input-->
+<!--        type="submit"-->
+<!--        value="Add Todo"-->
+<!--        class="btn btn-primary"-->
+<!--        (click)="addTodo()"-->
+<!--        />-->
+    <button type="submit" value="Add Todo" class="btn btn-primary" >Add Todo</button>
+    <div class="form-group py-2">
+      <div class="warning " *ngIf="content?.errors?.required && !content?.pristine">jangan kosong dong !</div>
+    </div>
+
+
+    <!--      </div>-->
   </div>
 </form>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3f35c0c-c6ee-4857-ba39-2a865bce41f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SESI 25/routing-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SESI 22/todo-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SESI 22/todo-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SESI 22/todo-app/src/app/components/add-todo-form/add-todo-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/SESI 22/todo-app/src/app/components/add-todo-form/add-todo-form.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SESI 22/todo-app/src/app/components/add-todo-form/add-todo-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SESI 22/todo-app/src/app/components/add-todo-form/add-todo-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SESI 22/todo-app/src/app/components/todo-list/todo-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/SESI 22/todo-app/src/app/components/todo-list/todo-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SESI 22/todo-app/src/app/components/todo-list/todo-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SESI 22/todo-app/src/app/components/todo-list/todo-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SESI 24/Form/src/app/login-reactive-form/login-reactive-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/SESI 24/Form/src/app/login-reactive-form/login-reactive-form.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SESI 24/Form/src/app/login-reactive-form/login-reactive-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SESI 24/Form/src/app/login-reactive-form/login-reactive-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SESI 24/Form/src/app/template-driven-form/template-driven-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/SESI 24/Form/src/app/template-driven-form/template-driven-form.component.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20Iasw5Jy34FxZWQ9eMDjJlxLTx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SESI 26/session26" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3f35c0c-c6ee-4857-ba39-2a865bce41f0" name="Changes" comment="" />
+      <created>1635734765827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635734765827</updated>
+      <workItem from="1635734767764" duration="19000" />
+    </task>
+    <servers />
+  </component>
+</project>

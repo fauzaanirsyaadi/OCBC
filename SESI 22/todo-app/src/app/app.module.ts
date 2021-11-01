@@ -5,18 +5,24 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { TodoListComponent } from './components/todo-list/todo-list.component';
 import { AddTodoFormComponent } from './components/add-todo-form/add-todo-form.component';
+import { FormsModule, ReactiveFormsModule  } from '@angular/forms';
+import { TodoFormReactiveComponent } from './components/todo-form-reactive/todo-form-reactive.component';
 
-import { FormsModule } from '@angular/forms';
+
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     TodoListComponent,
-    AddTodoFormComponent
+    AddTodoFormComponent,
+    TodoFormReactiveComponent,
+    // ReactiveFormsModule,
+    // TodoFormReactiveComponent
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

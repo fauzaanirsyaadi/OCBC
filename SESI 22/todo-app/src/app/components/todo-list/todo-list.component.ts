@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, EventEmitter, Output } from '@angular/core';
 import { Todo } from '../../models/Todo';
+import { FormControl, FormGroup, Validators } from '@angular/forms';
 
 @Component({
   selector: 'app-todo-list',
@@ -9,6 +10,8 @@ import { Todo } from '../../models/Todo';
 export class TodoListComponent implements OnInit {
 
   todos:Todo[] = [];
+  inputTodo: string = '';
+  @Output() newTodoEvent = new EventEmitter<Todo>();
 
   constructor() { }
 
@@ -22,7 +25,7 @@ export class TodoListComponent implements OnInit {
         content : 'Second todo',
         completed : false
       }
-    ]
+    ];
   }
 
   toggleDone (id:number){
@@ -37,8 +40,32 @@ export class TodoListComponent implements OnInit {
     this.todos = this.todos.filter((v,i) => i !== id);
   }
 
+  editSaveTodo(todo: Todo) {
+    if (todo.content != '') {
+      todo.content = this.inputTodo;
+      todo.completed = false;
+      this.inputTodo = '';
+    } else {
+      console.log('data tidak boleh kosong')
+    }
+  }
+
   addTodo(todo:Todo){
     this.todos.push(todo);
+  }
+
+  updateTodo(todo: Todo){
+    const Todo = {
+      content : this.inputTodo,
+      completed : false
+    };
+
+    if (this.inputTodo != '') {
+      this.newTodoEvent.emit(Todo);
+    }else{
+      this.inputTodo = '';
+      console.log('tidak boleh kosong')
+    }
   }
 
 }

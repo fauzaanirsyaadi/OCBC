@@ -1,0 +1,41 @@
+<div class="auth-wrapper">
+<form class="form-signin" {formGroup}="signupform" (ngSubmit)="registerUser()">
+  <h3 class="h3 mb-3 font-weight-normal text-center"> Please sign up </h3>
+  <div class="form-group mt-3">
+    <label >Name</label>
+    <input type="text" class="form-control" formControlName="name" placeholder="Enter Name" required >
+    <span style="color:red;"
+          *ngIf="name && name.touched && name.invalid">
+      Name is required. Min length is 5
+    </span>
+  </div>
+  <div class="form-group mt-3">
+    <label >Email Address</label>
+    <input type="email" class="form-control" formControlName="email" placeholder="Enter Email"  required>
+    <span style="color:red;"
+          *ngIf="email && email.touched && email.invalid">
+      Email is required. Must input email type
+    </span>
+  </div>
+  <div class="form-group mt-3">
+  <label >Password</label>
+    <input type="password" class="form-control" formControlName="password" placeholder="Enter Password" required>
+    <span style="color:red;"
+          *ngIf="password && password.touched && password.invalid">
+      Password is required.
+    </span>
+  </div>
+  <div class="container">
+    <label>
+      <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+    </label>
+
+    <p>By creating an account you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
+
+    <div class="clearfix">
+      <button type="button" class="cancelbtn">Cancel</button>
+      <button type="submit" class="signupbtn">Sign Up</button>
+    </div>
+  </div>
+</form>
+</div>

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { FormGroup, FormControl } from '@angular/forms';
+import { FormGroup, FormControl, Validators } from '@angular/forms';
 
 @Component({
   selector: 'app-login-reactive-form',
@@ -9,6 +9,8 @@ import { FormGroup, FormControl } from '@angular/forms';
 export class LoginReactiveFormComponent implements OnInit {
 
   constructor() { }
+
+  isSubmitted = false;
 
   loginData = new FormGroup({
     username: new FormControl(''),
@@ -22,5 +24,40 @@ export class LoginReactiveFormComponent implements OnInit {
 
   ngOnInit(): void {
   }
+
+  currentUser:{
+    isLogin : boolean,
+    username: string,
+    password : string
+  } = {
+    isLogin : false,
+    username: '',
+    password : '',
+  }
+
+  loginForm = new FormGroup({
+    username: new FormControl('',[
+      Validators.required,
+      Validators.minLength(5)
+    ]),password: new FormControl('')
+  })
+
+  get username() {
+    return this.loginForm.get('username')
+  }
+
+  // loginForm = new FormGroup ({
+  //   username : new FormControl(''),
+  //   password : new FormControl('')
+  // })
+  //
+  // onLogin = () {
+  //   console.log(this.loginForm);
+  //   this.currentUser = {
+  //     isLogin: true,
+  //     username : this.loginForm.value.username,
+  //     password : this.loginForm.value.password
+  //   }
+  // }
 
 }

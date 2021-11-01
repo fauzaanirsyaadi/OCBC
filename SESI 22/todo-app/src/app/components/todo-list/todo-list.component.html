@@ -1,4 +1,3 @@
-<!-- <p>todo-list works!</p> -->
 <app-add-todo-form
   (newTodoEvent)="addTodo($event)"
 >
@@ -11,6 +10,8 @@
         {{i+1}}.{{ todo.content }}
       </div>
     </div>
+
+
     <!-- <button class="btn btn-warning btn-sm completed">
       <i class="bi bi-check-circle"></i>
     </button>
@@ -23,6 +24,10 @@
     </button>
     <button class="btn btn-danger btn-sm" (click)="deleteTodo(i)">
       <i class="bi bi-trash-fill"></i>
+    </button>
+    <button class="btn btn-warning btn-sm completed" (click)="updateTodo(todo)">
+      <i class="bi bi-pencil-fill">
+      </i>
     </button>
   </li>
 </ol>
